@@ -16,7 +16,7 @@ Este projeto foi criado como um exercício prático para aprender e solidificar 
 * **Entrada e Saída (I/O)**: Utilização de `print()` para exibir informações e `input()` para obter dados do usuário.
 * **Módulos Nativos**: Como `os` (para limpar a tela) e `random` (para escolher palavras aleatoriamente).
 * **F-strings**: Uma forma moderna e eficiente de formatar strings.
-* **Tratamento de Erros Básicos**: Como `try-except` para entradas de usuário (se você implementou validação de `int(input())`).
+* **Tratamento de Erros Básicos**: Como `try-except` para entradas de usuário.
 * **Lógica de Jogo**: Implementação de regras básicas de um jogo de terminal.
 
 ---
@@ -53,7 +53,7 @@ Para jogar, siga estes passos:
 * **Gerenciamento de Loops (`while` e `for`)**: A importância de `break` para sair de loops e a correta condição do `while` para encerrar o jogo por vitória ou derrota.
 * **Ordem de Execução e `limpar_tela()`**: A necessidade de chamar `limpar_tela()` no início de cada rodada e de re-imprimir todo o estado do jogo.
 * **Comparações em Python**: Usando `==` para igualdade e `in`/`not in` para verificar a presença de elementos, de forma mais Pythônica que em outras linguagens.
-* **Erros de Codificação (Encoding)**: Entender e solucionar o `UnicodeEncodeError` ao usar caracteres especiais (se você os tentou).
+* **Erros de Codificação (Encoding)**: Entender e solucionar o `UnicodeEncodeError` ao usar caracteres especiais.
 
 ---
 
@@ -65,4 +65,4 @@ Este é um projeto de aprendizado, mas sinta-se à vontade para inspecionar o c�
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT) (ou outra licença de sua escolha, se preferir).
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).

@@ -15,7 +15,7 @@ This project was created as a practical exercise to learn and solidify knowledge
 * **Input and Output (I/O)**: Utilizing `print()` to display information and `input()` to get user input.
 * **Built-in Modules**: Such as `os` (for clearing the screen) and `random` (for choosing random words).
 * **F-strings**: A modern and efficient way to format strings.
-* **Basic Error Handling**: Like `try-except` for user input (if you implemented `int(input())` validation).
+* **Basic Error Handling**: Like `try-except` for user input.
 * **Game Logic**: Implementing the core rules of a terminal-based game.
 
 ---
@@ -52,7 +52,7 @@ To play the game, follow these steps:
 * **Loop Management (`while` and `for`)**: The importance of `break` to exit loops and the correct `while` condition to end the game on either win or loss.
 * **Execution Order and `clear()`**: The necessity of calling `clear()` at the beginning of each round and re-printing the entire game state.
 * **Comparisons in Python**: Using `==` for equality and `in`/`not in` to check for element presence, in a more Pythonic way compared to other languages.
-* **Encoding Errors**: Understanding and resolving `UnicodeEncodeError` when using special characters (if you attempted them).
+* **Encoding Errors**: Understanding and resolving `UnicodeEncodeError` when using special characters.
 
 ---
 
@@ -64,4 +64,4 @@ This is a learning project, but feel free to inspect the code, suggest improveme
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) (or another license of your choice, if preferred).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
